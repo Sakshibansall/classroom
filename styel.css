@@ -1,0 +1,36 @@
+#navbar {
+    height: 100px;
+    width: 155px;
+    background-color: aquamarine;
+    border: 3px solid white;
+    background-image: url("logo.jpg");
+    background-size: cover;
+}
+
+#bar {
+    height: 50px;
+    width: 150px;
+    margin-left: 5px;
+    border: 2px solid white;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: solid;
+    margin-left: 2px;
+
+}
+
+#nav {
+    height: 40px;
+    width: 500px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    padding: 14px 32px 14px 28px;
+    margin-left: 180px;
+    background-color: aliceblue;
+    bottom: 8.5rem;
+    margin-left: 370px;
+    
+
+}
